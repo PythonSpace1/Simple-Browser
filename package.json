@@ -1,0 +1,12 @@
+{
+  "name": "simple-web-browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^34.3.0"
+  }
+}
